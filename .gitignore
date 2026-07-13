@@ -1,0 +1,52 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+
+venv/
+.venv/
+env/
+
+# VS Code
+
+.vscode/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# YOLO Output
+
+runs/
+Output/
+Detection_Output/
+Segmentation_Output/
+Pose_Output/
+
+# Model Weights
+
+*.pt
+
+# Videos
+
+*.mp4
+*.avi
+*.mov
+*.mkv
+
+# Images
+
+output.jpg
+output.png
+
+# Logs
+
+*.log
+
+# OS Files
+
+.DS_Store
+Thumbs.db
