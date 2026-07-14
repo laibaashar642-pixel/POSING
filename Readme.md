@@ -131,10 +131,4 @@ https://drive.google.com/drive/folders/1AjQNUrTq1IlriMJ2dgWtuUI5dlO_zoaf?usp=dri
 
 BS Information Technology
 
-Python & Computer Vision Developer
 
----
-
-## License
-
-This project is intended for educational and research purposes.
